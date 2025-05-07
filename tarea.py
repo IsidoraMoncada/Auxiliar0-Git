@@ -12,4 +12,4 @@ class Tarea:
     def terminar(self):
         self.listo = True
 
-    #Hola esto es una prueba 2
+"Ahora sí ya haremos el merge 2"
